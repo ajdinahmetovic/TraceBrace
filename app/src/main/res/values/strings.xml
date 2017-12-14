@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Trace Brace</string>
+    <string name="reg"><u>Register</u></string>
+    <string name="create_account">Create Account</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="full_name">Full Name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="security">Security</string>
+    <string name="password_min_8_characters">Password (min 8 characters)</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="register">Register</string>
+    <string name="or">-------OR-------</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="message">Phone numder aded, add another one</string>
+    <string name="mag">FoodleMoodleStick Vjezba #ISPISISE #TISIBUDLA #NIDJEVEZE #PIC16f877 #UVIJEKTREBAFRZERA #UPISISE ZA PEKARA NAHRANILJUDE</string>
+    <string name="EULA">TraceBrace - inovativan naèin dojave nasilja ili zlostavljanja, korištenjem ureðaja izvedenim u vidu narukvice. Potencijalna žrtva nasilja, pritiskom na dugme, šalje poruku osobi od povjerenja. Poruka sadrži lokaciju žrtve nasilja, te omoguæava brzu reakciju. Osoba od povjerenja može doæi na lice mjesta, ili potražiti pomoæ od nekog drugog.
+USLOVI KORIŠTENJA
+Prihvatanje uslova
+Pristupanjem ovoj aplikaciji potvrðujete da ste proèitali, razumjeli i prihvatili uslove pod kojima se ovaj ureðaj koristi. U sluèaju da ne razumete ili niste saglasni sa nekim od uslova, odmah kontaktirajte TraceBrace. TraceBrace zadržava pravo da u bilo kom trenutku ažurira USLOVE KORIŠÆENJA, bez prethodne najave. TraceBrace æe imati pravo da zatraži pravna i objektivna stredstva po osnovu bilo kakvog postupka kršenja odredbi navednih uslova korišæenja.
+
+OGRANIÈENA LICENCA
+Cjelokupan sadržaj na ovoj aplikaciji  je autorsko pravo TaceBrace-a, osim ako nije navedeno drugaèije. Bez prethodnog pismenog odobrenja TraceBrace-a ili drugih lica, nijedan sadržaj sa ove aplikacije ne može se reprodukovati, distribuirati, fotokopirati, emitovati, linkovati ili prenositi superlinkovima, uèitavati na druge servere "mirroring metodom", èuvati na sistemu za pretraživanje informacija ili koristiti na drugi naèin u bilo koje komercijalne svrhe od bilo kog lica i bilo kojim sredstvima, osim ako nije preuzet ili reprodukovan u privatne i nekomercijalne svrhe (s tim da ovakva upotreba ne podrazumeva revidiranje sadržaja, a obaveštenja o autorskim pravima i druga obaveštenja o vlasnièkim pravima zadržavaju se u istoj formi i obliku kao u originalu
+
+Koa korisnik pristajete na sljedeæe uslove:
+
+•	TraceBrace saèuva vaše liène podatke, te da ih koristi samo za funkcionalnost ureðaja i aplikacije
+•	TraceBrace prati vaš ureðaj, kako bi mogao slati poruku, te se obavezuje da æe istu koristiti samo za funkcionalost ureðaja i aplikacije
+
+
+</string>
+
+</resources>
